@@ -1,0 +1,10 @@
+* s-sysdeps
+
+A Common Lisp abstraction layer over platform dependent functionality.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/svenvc/s-sysdeps.git   |
+| commit  | 7f8de28  |
+| systems | s-sysdeps |
+|---------+-------------------------------------------|
+
